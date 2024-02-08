@@ -1,4 +1,71 @@
-.body{
-    background-image:url("");
-    background-color:#353668
+body{
+    margin:0;
+    background-image:url("2024-02-08 133759.png");
+    background-repeat:repeat-x;
 }
+h1{
+    font-size:65px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+text-align:center;
+}
+h1{
+    font-size: 65px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+}
+h4{
+    font-size:50px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+text-align:center;
+}
+h5{
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+text-align:center;
+align-items:space-around;
+}
+H3{
+    font-size:40px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+text-align:space-between;
+}
+H3{
+    font-size:40px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+text-align:center;
+}
+p{
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+}
+h2{
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+text-align:center;
+align-items:flex-start;
+}
+h2{
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+text-align:center;
+align-items:flex-end;
+}
+p {
+
+    border: 200px solid #353668;
+    outline: #12134D solid 30px;
+    margin: auto;  
+    padding: 20px;
+    text-align: center;
+  }
+  p.solid{
+    border-style:solid;
+  }
