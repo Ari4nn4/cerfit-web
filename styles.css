@@ -54,18 +54,32 @@ align-items:flex-start;
 h2{
     font-size:35px;
     font-family: 'Josefin Sans', sans-serif;
-font-family: 'Noto Sans', sans-serif;
-text-align:center;
-align-items:flex-end;
+    font-family: 'Noto Sans', sans-serif;
+    text-align:center;
+    align-items:flex-end;
 }
 p {
-
-    border: 200px solid #353668;
-    outline: #12134D solid 30px;
-    margin: auto;  
-    padding: 20px;
     text-align: center;
   }
   p.solid{
     border-style:solid;
+  }
+  img{ width:100%;
+    height:auto;
+  }
+.container{
+    position:absolute;
+}
+.center{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%)
+}
+#example1 {
+    border: 1px solid black;
+    padding: -2px;
+    background: url( img/Screenshot140214.png);
+    background-repeat: no-repeat;
+    background-size: contain;
   }
